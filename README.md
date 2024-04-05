@@ -1,7 +1,9 @@
-Create user woth roles - ROLE_ADMIN, ROLE_USER
+To create a user with roles, follow the JSON structure below:
+
+```json
 {
-    "name":"john",
-    "email":"john@gmail.com",
-    "password":"pwd",
-    "roles":"ROLE_USER"
+    "name": "john",
+    "email": "john@gmail.com",
+    "password": "pwd",
+    "roles": "ROLE_USER"
 }
