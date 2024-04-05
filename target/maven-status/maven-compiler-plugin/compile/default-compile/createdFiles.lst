@@ -1,0 +1,10 @@
+com\techweb\spring\security\service\UserInfoUserDetailsService.class
+com\techweb\spring\security\entity\UserInfo.class
+com\techweb\spring\security\controller\ProductController.class
+com\techweb\spring\security\repository\UserInfoRepository.class
+com\techweb\spring\security\model\Product$ProductBuilder.class
+com\techweb\spring\security\model\Product.class
+com\techweb\spring\security\config\UserInfoUserDetails.class
+com\techweb\spring\security\service\ProductService.class
+com\techweb\spring\security\SpringSecurityApplication.class
+com\techweb\spring\security\config\SecurityConfig.class
